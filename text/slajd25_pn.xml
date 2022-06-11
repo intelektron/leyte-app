@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strona>
+
+	<tytul>Ozawa zarządza atak</tytul>
+	<zakladka>kontynuuj</zakladka>
+	<pamietaj />
+
+	<p>Flota admirała Ozawy stanowiła przynętę dla Trzeciej Floty Stanów Zjednoczonych.</p>
+	<p>W jej skład wchodziły lotniskowce Chitose, Zuiho, Chiyoda i Zuikaku – ostatni z ocalałych japońskich weteranów spod Pearl Harbour. Nazwy tych 4 okrętów budziła niegdyś postrach wśród Amerykanów, ale dni świetności każdego należały do przeszłości. Na pokładach znajdowało się w sumie zaledwie 89 myśliwców, a pilotami byli rekruci po 30-godzinnym szkoleniu. Lotniskowcom towarzyszyły okręty bojowe Isa i Hyuga, również mające swój czas chwały za sobą, 3 krążowniki i 9 niszczycieli.</p>
+	<p>Od rana 24. października Ozawa wysłał połowę myśliwców i kilka samolotów wspomagających nad zachodnie wybrzeża Luzonu w celu ściągnięcia uwagi Trzeciej Floty, ale amerykańscy oficerowie uznali, że był to atak z wyspy. Amerykanie zestrzelili 43 samoloty, tracąc lotniskowiec Princeton. Zaledwie kilka myśliwców powróciło.</p>
+	<flash link="flash/film_zuikaku.swf" szerokosc="400" wysokosc="300" />
+	<p>Flota północna została dostrzeżona dopiero wtedy, gdy operatorzy radiowi na polecenie Ozawy wypełnili eter komunikatami, zawierającymi nazwy japońskich lotniskowców. Około 20:00 wyruszyła im na spotkanie cała Trzecia Flota w sile: 5 lotniskowców (Intrepid, Franklin, Lexington, Enterprise i Essec), 6 lekkich lotniskowców, 6 superszybkich okrętów bojowych (Alabama, Washington, Massachusetts, South Dakota, New Jersey i Iowa – zdolnego rozwinąć prędkość 33 węzły), 4 krążowników, 4 lekkich krążowników i ponad 40 niszczycieli. Dowódcą ataku został Marc Mitscher.</p>
+
+   <codalej>
+		<opcja link="text/slajd26_p1.xml">Trzon floty Ozawy został zniszczony przez przeważające siły amerykańskie</opcja>
+		<opcja link="text/slajd26_p2.xml">Ozawa nakazał odwrót, ciągnąc za sobą okręty amerykańskie</opcja>
+		<opcja link="text/slajd26_p3.xml">Flota Ozawy odparła amerykańskie ataki</opcja>
+	</codalej>
+
+	<nastepny>text/slajd26_pn.xml</nastepny>
+	<poprzedni>text/slajd_flash_samar.xml</poprzedni>
+	<numer_slajdu>30</numer_slajdu>
+	<liczba_slajdow>37</liczba_slajdow>
+
+</strona>

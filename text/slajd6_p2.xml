@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strona>
+
+	<tytul>Japończycy ruszają do bitwy</tytul>
+	<zakladka>kontynuuj</zakladka>
+	<pamietaj />
+
+	<p>Niestety, mylisz się, Japończycy rzucili do walki niemal całą flotę. Grupa centralna opuściła port Brunei rankiem 22. października 1944. roku, w 4 dni po rozpoczęciu amerykańskiego desantu. Flota Kurity dysponowała bardzo małą ilością paliwa, wystarczającą na dopłynięcie do Cieśniny San Bernardino, położonej na północ od Leyte, jedynie najkrótszą drogą. Szlak Kurity prowadził przez Przesmyk Palawański, położony między wyspą Palawan i Groźnymi Ławicami. Na nieszczęście dla Kurity, nie chodziło o ławicę piranii lub innych sympatycznych rybek, ale podmorskie skały i mielizny. Początkowo flota płynęła zygzakiem z prędkością 16 węzłów, co zapewniało minimum bezpieczeństwa w przypadku ataku ze strony łodzi podwodnych wroga, później jednak Kurita rozkazał zaprzestać kluczenia – paliwo było zbyt cenne.</p>
+	<obrazek duzy="images/uss_darter.jpg" maly="images/uss_darter_m.jpg" tytul="Amerykański okręt podwodny USS Darter" />
+	<p>Tymczasem na dnie Przesmyku David McClintock i Bladen Claggett chwilowo się nudzili, patrolując od 20. października cieśninę swoimi łodziami podwodnymi, Darterem i Dace’em. 22. października, o 12:23, McClintock patrolując Cieśninę Balabac zauważył na radarze około 30 okrętów. Powiedzenie głosi, że pierwsze przeczucie jest zawsze prawdziwe, i w tym przypadku okazało się to prawdą: po wynurzeniu się na głębokość peryskopową pierwszy oficer Dartera potwierdził, że dostrzeżone obiekty to okręty japońskie. Flota Kurity płynęła prosto z prędkością 16 węzłów. McClintock zaskoczony tym, że wrogie statki nie kluczują, wezwał Claggetta w celu dokonania wspólnego ataku. O 17:30 obaj dowódcy podjęli decyzję o zbliżeniu się z prędkością 19 węzłów na dystans 10 mil do przeciwnika i rozpoczęciu ataku o świcie.</p>
+
+	<codalej>
+		<opcja link="text/slajd7_p1.xml">Dace i Darter zostały zniszczone przez japońską flotę</opcja>
+		<opcja link="text/slajd7_p2.xml">Dace i Darter zatopiły kilka japońskich okrętów</opcja>
+		<opcja link="text/slajd7_p3.xml">Dace i Darter wycofały się z walki ze względu na przeważające siły wroga</opcja>
+	</codalej>
+
+	<nastepny>text/slajd7_pn.xml</nastepny>
+	<poprzedni>text/slajd5_pn.xml</poprzedni>
+	<numer_slajdu>6</numer_slajdu>
+	<liczba_slajdow>37</liczba_slajdow>
+
+</strona>

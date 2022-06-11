@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strona>
+
+	<tytul>Początek bitwy w pobliżu Samar</tytul>
+	<zakladka>kontynuuj</zakladka>
+	<pamietaj />
+
+	<p>Około 6:30 samoloty zwiadowcze grupy Taffy 3 dostrzegły na horyzoncie japońskie jednostki. W pierwszej chwili uznano, że to pomyłka, gdy jednak dostrzeżono charakterystyczne maszty w kształcie pagód, nie było co do tego wątpliwości. Kapitan niszczyciela Roberts doszedł do wniosku, że to okręty uchodzące z pola walki i wyruszył im na spotkanie. Marynarze Kurity byli jednak na tyle wspaniałomyślni, aby wyprowadzić go z błędu jak tylko wszedł w zasięg ognia.</p>
+	<p>Gdy kontradmirał Sprague został poinformowany o tym, że przyjdzie mu zmierzyć się z potężną flotą, liczącą 5 okrętów bojowych, 8 krążowników i 11 niszczycieli, był jeszcze mniej szczęśliwy niż admirał Halsey, gdy usłyszał, że uniknie tej potyczki.</p>
+	<p>Admirał Kurita, po nawiązaniu kontaktu wzrokowego z grupą Taffy 3, był również zaskoczony. W szczególności jego zdumienie wzbudził widok lotniskowców eskortowych. Japończycy nigdy wcześniej nie widzieli tej klasy okrętów i Kurita uznał, że natknął się właśnie na grupę lotniskowców admirała Halseya, pozostawioną we względnie słabej eskorcie. Natychmiast wydał rozkaz: wejść na kurs zbliżeniowy z maksymalną prędkością i rozpocząć atak. Chwilę potem na północ od Fanshaw Bay’a, flagowego okrętu Sprague’a, rozprysły gejzery wody od pocisków wystrzelonych z Yamato.</p>
+
+	<codalej>
+		<opcja link="text/slajd21_p1.xml">Japończycy zgnietli wielokrotnie słabszą flotę amerykańską</opcja>
+		<opcja link="text/slajd21_p2.xml">Amerykanie podjęli skuteczną próbę obrony</opcja>
+	</codalej>
+
+	<nastepny>text/slajd21_pn.xml</nastepny>
+	<poprzedni>text/slajd19_pn.xml</poprzedni>
+	<numer_slajdu>23</numer_slajdu>
+	<liczba_slajdow>37</liczba_slajdow>
+
+</strona>

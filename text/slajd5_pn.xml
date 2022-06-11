@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strona>
+
+	<tytul>Operacja Sho-1</tytul>
+	<zakladka>kontynuuj</zakladka>
+	<pamietaj />
+
+	<obrazek duzy="images/halsey.jpg" maly="images/halsey_m.jpg" tytul="Admirał William Halsey" />
+	<p>Powodzenie Sho-1 zależało od bardzo ścisłego zgrania w czasie kolejnych etapów planu. Było to o tyle trudne, że dowództwo japońskie było podzielone: formalnie Kurita był głównodowodzącym, faktycznie jednak każdy admirał działał niezależnie. Amerykanie nie uniknęli tego samego błędu.</p>
+	<p>Stany Zjednoczone wykorzystały w operacji Trzecią i Siódmą Flotę. Dowódcą Trzeciej był admirał William Halsey, podwładny admirała Nimitza. Halsey był zwierzchnikiem wiceadmirała Marca Mitschera, dowódcy grupy Task Force 38, i wiceadmirała Willisa Lee, dowódcy Task Force 34. W skład Task Force 38 wchodziły głównie ciężkie lotniskowce i samoloty, a Mitscher był znany jako dowódca sił powietrznych, zasłużony na Wyspach Gilberta i Marianach. Najnowocześniejsze i najszybsze okręty amerykańskie, zdolne rozwijać prędkości 28 do 33 węzłów, wchodziły w skład Task Force 34, nieformalnej grupy kierowanej przez wybitnego dowódcę walk nad Guadalcanalem.</p>
+	<p>Siódma Flota, dowodzona przez admirała <a href="" class="hint" onclick="return powiedz(bold('Thomas C. Kinkaid') + ' (1888-1972) - admirał amerykańskiej marynarki, dowódca 7 floty.');">Thomasa Kinkaida</a>, podlegała rozkazom McArthura i stanowiła trzon sił inwazyjnych. Kinkaid brał udział w bitwach o Guadalcanal, Wyspy Santa Cruz i zdobywaniu Nowej Gwinei. W dowództwie Siódmej Floty znaleźli się wiceadmirał Thomas Wilkinsoni jego podwładny kontradmirał Jesse Oldendorf, dowodzącymi siłami inwazyjnymi, kontradmirał Daniel Barbey, odpowiedzialny za wsparcie z morza oraz kontradmirał Thomas Sprague, dowodzący grupą wsparcia z powietrza. W zespole Thomasa Sprague’a znalazł się kontradmirał Clifton Sprague, kierujący trzema grupami zadaniowymi Taffy 1, 2 i 3, złożonymi z lotniskowców eskortowych i niewielkiej liczby niszczycieli.</p>
+	<p>W bitwie o Leyte Amerykanie wystawili w Trzeciej Flocie: 8 ciężkich lotniskowców, 7 lekkich lotniskowców, 6 superszybkich okrętów bojowych, 6 ciężkich krążowników, 8 lekkich krążowników i 61 niszczycieli. W skład Siódmej Floty weszło: 6 statków bojowych, 16 lotniskowców eskortowych, 4 ciężkie krążowniki, 4 lekkie krążowniki, 48 niszczycieli i niszczycieli eskortowych oraz 39 kutrów torpedowych. Razem 213 statków, 3 razy więcej niż Japończycy.</p>
+
+	<codalej>
+		<opcja link="text/slajd6_p1.xml">Japończycy zdecydowali się na realizację planu Sho-1 w pełnym wymiarze</opcja>
+		<opcja link="text/slajd6_p2.xml">Japończycy ograniczyli siły biorące udział w bitwie, aby ocalić okręty mogące bronić Wysp Japońskich</opcja>
+	</codalej>
+
+	<nastepny>text/slajd6_pn.xml</nastepny>
+	<poprzedni>text/slajd4_pn.xml</poprzedni>
+	<numer_slajdu>5</numer_slajdu>
+	<liczba_slajdow>37</liczba_slajdow>
+
+</strona>

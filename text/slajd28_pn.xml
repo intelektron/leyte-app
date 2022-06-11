@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strona>
+
+	<tytul>Przegrupowanie floty</tytul>
+	<zakladka>kontynuuj</zakladka>
+	<pamietaj />
+
+	<obrazek duzy="images/lee.jpg" maly="images/lee_m.jpg" tytul="Admirał Willis Lee " />
+	<p>Upokorzony Halsey wziął się w garść. O 11:15 wydzielił z Trzeciej Floty zespół Task Force 34, w skład którego włączył 4 szybkie okręty bojowe i grupę niszczycieli. Trzecia Flota wypłynęła wówczas tak daleko na północ, że okręty w zespole Lee musiały przez dwie i pół godziny tankować paliwo, zanim mogły wyruszyć na południe wspomóc Siódmą Flotę w obronie Zatoki Leyte.</p>
+	<p>Która była wówczas już zupełnie zbędna, gdyż grupa centralna żeglowała wówczas w kierunku Cieśniny San Bernardino.</p>
+	<p>O 16:22 na południe wysłano kolejną grupę wsparcia, złożoną z pozostałych 2 okrętów bojowych, 3 krążowników i 8 niszczycieli pod wodzą kontradmirała Badgera.</p>
+	<p>Oba amerykańskie zespoły dopłynęły do Zatoki Leyte unikając potyczki z uciekającą grupą centralną admirała Kurity, która późnym wieczorem 25. października przekroczyła Cieśninę San Bernardino kierując się na zachód. I miały w tym sporo szczęścia, ponieważ flota Kurity, chociaż zdziesiątkowana, mogła unicestwić każdy z nich.</p>
+
+	<ciekawostka>Pod koniec wojny na pokładzie flagowego okręt Halseya, Missouri, została podpisana kapitulacja Japonii.</ciekawostka>
+
+	<nastepny>text/slajd29_pn.xml</nastepny>
+	<poprzedni>text/slajd27_pn.xml</poprzedni>
+	<numer_slajdu>33</numer_slajdu>
+	<liczba_slajdow>37</liczba_slajdow>
+	<dalej />
+
+</strona>

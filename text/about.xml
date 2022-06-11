@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strona>
+
+	<tytul>O lekcji</tytul>
+	<zakladka>olekcji</zakladka>
+	
+	<p>
+	   Lekcja została przygotowana w ramach projektu <i>Sieciowe Systemy Multimedialne</i>. Opiera się w całości na AJAX, korzystając z JavaScript i dokumentów w formacie XML, bez pośrednictwa skryptów po stronie serwera.
+		<ul class="normallist">
+			<li>Autorzy: Grzegorz Pietrzak (133329), Piotr Twaróg (133395)</li>
+			<li>Grupa: ŚR/P 11-13</li>
+			<li>Prowadzący: dr inż. Tomasz Walkowiak</li>
+		</ul>
+	</p>
+		
+</strona>

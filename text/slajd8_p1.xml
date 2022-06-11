@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strona>
+
+	<tytul>Przygotowania Trzeciej Floty do bitwy</tytul>
+	<zakladka>kontynuuj</zakladka>
+	<pamietaj />
+
+	<p>Niestety nie masz racji, Kurita kontynuował natarcie. Plan Sho-1 zakładał, że flota admirała Kurity zostanie przez Amerykanów dostrzeżona najwcześniej w Cieśninie San Bernardino. Element zaskoczenia się nie udał. Grupa centralna została zauważona przez wojska Stanów Zjednoczonych, zanim admirał Ozawa odciągnął uwagę Williama Halsey’a.</p>
+	<p>W tym czasie Trzecia Flota stacjonowała już u południowych wybrzeży wyspy Luzon, patrolując Cieśninę San Bernardino. Luzon, największa wyspa Filipin, pozostawał w rękach Japończyków, którzy regularnie bombardowali Trzecią Flotę, w szczególności lotniskowce w zespole Task Force 38, podległe kontradmirałowi Forestowi Shermanowi. Głównym celem ataków był lotniskowiec Princeton, który został 23. października kilkukrotnie trafiony.</p>
+	<obrazek duzy="images/yamato_poklad.jpg" maly="images/yamato_poklad_m.jpg" tytul="Pokład japońskiego superpancernika Yamato" />
+	<p>Dysponując jednak potężnymi siłami, wiceadmirał Halsey rozkazał wysłać oddział Task Group 38.3 (jedną z grup zespołu Task Force 38) w celu uzupełnienia zaopatrzenia, a piloci grup Task Group 38.2 i 38.4 dostali dwa zadania do wykonania. Jednym z nich było ustalenie pozycji floty Kurity. Pozostałe siły pozostawione zostały do obrony floty, należały do nich między innymi lotniskowce Essex, Lexington, Princeton i Langley.</p>
+	<p>Ataki japońskie przyniosły straty głównie atakującym. Żaden z okrętów Stanów Zjednoczonych nie został zatopiony. 24. października rano Japończycy przypuścili ostatni zmasowany atak, w wyniku którego zestrzelonych zostało wiele myśliwców. Amerykanie stracili wtedy wyłącznie lekki lotniskowiec Princeton, który wybuchając około 9:50 uszkodził krążownik Birmingham</p>
+	<p>O 10:20 amerykańskie myśliwce wyleciały zdziesiątkować flotę Kurity.</p>
+	
+	<codalej>
+		<opcja link="text/slajd9_p1.xml">Atak myśliwców został odparty</opcja>
+		<opcja link="text/slajd9_p2.xml">Myśliwce dokonały dużych zniszczeń wśród japońskich okrętów</opcja>
+	</codalej>
+
+	<nastepny>text/slajd9_pn.xml</nastepny>
+	<poprzedni>text/slajd7_pn.xml</poprzedni>
+	<numer_slajdu>8</numer_slajdu>
+	<liczba_slajdow>37</liczba_slajdow>
+
+</strona>

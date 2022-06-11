@@ -1,0 +1,322 @@
+/* Zerowanie ustawieñ w przegl¹darkach
+--------------------------------------------- */
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-weight: inherit;
+	font-style: inherit;
+	/*font-size: 100%;*/
+	font-family: inherit;
+	vertical-align: baseline;
+}
+/* remember to define focus styles! */
+:focus {
+	outline: 0;
+}
+body {
+	line-height: 1.4em;
+	color: black;
+	background: white;
+}
+ol, ul {
+	list-style: none;
+}
+
+/* tables still need 'cellspacing="0"' in the markup */
+table {
+	border-collapse: separate;
+	border-spacing: 0;
+}
+caption, th, td {
+	text-align: left;
+	font-weight: normal;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: "";
+}
+blockquote, q {
+	quotes: "" "";
+}
+
+
+/*-----------------------------------------------------------------------------------*/
+
+body {
+	background: black;
+	font: 14px Verdana, sans-serif;
+	line-height: 1.4em;
+}
+
+div#container {
+	margin-top: 7px;
+	text-align: center;
+}
+
+div#box {
+	border: 3px solid gray;
+	background: white;
+	padding: 3px;
+	width: 900px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+div#header img {
+	margin-top: 2px;
+}
+
+div#footer {
+	text-align: left;
+	font-size: 10px;
+	border-top: 1px dashed gray;
+	padding-left: 15px;
+}
+
+div#content {
+	text-align: left;
+	padding: 5px 15px 5px 15px;
+	margin: 10px 0 10px 0;
+	background: transparent url('tlo.png') repeat-y scroll top left;
+	height: 100%;
+}
+
+div#japonczyk {
+   float: right;
+	width: 248px;
+	margin: 5px 0 10px 10px;
+	padding: 5px;
+	text-align: center;
+   background: transparent;
+}
+
+div#conttxt {
+   float: left;
+	width: 595px;
+	margin-bottom: 10px;
+	background: transparent;
+}
+
+#navlist
+{
+padding: 3px 0;
+margin: 0;
+border-bottom: 1px solid #778;
+font: bold 12px Verdana, sans-serif;
+}
+
+#navlist li
+{
+list-style: none;
+margin: 0;
+display: inline;
+}
+
+#navlist li a
+{
+padding: 3px 0.5em;
+margin-left: 3px;
+border: 1px solid #778;
+border-bottom: none;
+background: #D7E4B2;
+text-decoration: none;
+}
+
+#navlist li a:link { color: #000; }
+#navlist li a:visited { color: #000; }
+
+#navlist li a:hover
+{
+color: #000;
+background: #ACB78E;
+border-color: #227;
+}
+
+#navlist li a.current
+{
+background: white;
+border-bottom: 1px solid white;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+td, th {
+	border: 1px solid black;
+	border-collapse: collapse;
+	padding: 3px;
+}
+
+th {
+	background: #DDDDDD;
+	text-align: center;
+}
+
+a.imglink {
+   background: transparent url('pic.png') no-repeat scroll top left;
+   padding-left: 18px;
+   display: block;
+   height: 16px;
+   margin-top: 5px;
+}
+
+a.txtlink {
+   background: transparent url('txt.png') no-repeat scroll top left;
+   padding-left: 18px;
+   display: block;
+   height: 16px;
+   margin-top: 5px;
+}
+
+h1 {
+	font-size: 25px;
+	padding: 7px 0 7px 28px;
+	background: transparent url('head2.png') no-repeat scroll 0 9px;
+	margin: 10px 0 20px 0;
+	font-weight: bold;
+}
+
+h2 {
+	font-size: 18px;
+	padding: 7px 0 7px 0px;
+	margin: 10px 0 0px 0;
+	font-weight: bold;
+}
+
+a.hint:link, a.hint:visited, a.hint:hover {
+	color           : #D41A1F;
+   border-bottom: 1px solid #F5DEB3;
+   padding-bottom: 1px;
+   text-decoration : none;
+}
+
+a.hint:hover {
+	background: #FDF5E6;	
+}
+
+ul.codalej {
+	list-style: square;
+	list-style-position: outside;
+	margin-bottom: 10px;
+}
+
+ul.codalej li {
+	margin-left: 20px;
+	margin-top: 4px;
+}
+
+div.thumb img {
+	text-align: center;	
+}
+
+div.thumb a {
+	display: block;	
+}
+
+div.thumb span {
+	display: block;
+	margin-top: 2px;
+	font-size: 10px;
+}
+
+div.thumb {
+	margin: 3px 0px 3px 15px;
+	border: 1px solid #CCCCCC;
+	background: #EEEEEE;
+	padding: 5px;
+	float: right;
+	width: 210px;
+	line-height: 1em;
+}
+
+span.thumb_podpis {
+	font-size: 10px;
+	
+}
+
+b {
+	font-weight: bold;
+}
+
+p {
+	padding-top: 0px;
+	margin-top: 0px;
+	margin-bottom: 20px;
+}
+
+div#loading {
+	position: fixed;
+	right: 10px;
+	top: 10px;
+	display: none;
+}
+
+a#ldts {
+	font-size: 11px;
+	padding-left: 15px;
+	background: transparent url('anchor.png') no-repeat scroll top left;
+}
+
+a#next {
+	font-size: 11px;
+	padding-left: 15px;
+	margin-left: 5px;
+	background: transparent url('next.png') no-repeat scroll top left;
+	display: none;
+}
+
+a#prev {
+	font-size: 11px;
+	padding-left: 13px;
+	margin-left: 5px;
+	background: transparent url('prev.png') no-repeat scroll 0 2px;
+	display: none;
+}
+
+ul.normallist {
+	margin-top: 15px;
+}
+
+ul.normallist li {
+	list-style: square;
+	list-style-position: outside;
+	margin-left: 25px;
+}
+
+a.forward {
+	margin: 20px 0 0 0;
+	display: block;
+	background: transparent url('forward.png') no-repeat scroll 0 0px;
+	padding: 3px 0 0 40px;
+	height: 34px;
+	font-weight: bold;
+}
+
+span#licz {
+	background: #D7D7D7;
+	font-size: 10px;
+	padding: 1px 4px 1px 4px;
+	border: 1px solid black;
+	margin-left: 7px;
+}
+
+span.pyt {
+	display: block;
+	margin-bottom: 10px;
+	font-weight: bold;
+}
+
+button.odp {
+	margin-top: 20px;
+}

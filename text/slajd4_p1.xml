@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strona>
+
+	<tytul>Plany japońskie</tytul>
+	<zakladka>kontynuuj</zakladka>
+	<pamietaj />
+
+	<p>Ależ nie! Japończycy do leniwych nie należą i nie próżnowali, spodziewając się ataku wroga. Przewidywane były cztery możliwe cele: Filipiny, Formoza i Riuku, Archipelag Japoński oraz Kuryle. Na potrzeby obrony każdego z tych celów opracowano szczegółowe plany obronne, opatrzone kryptonimami odpowiednio Sho-1, Sho-2, Sho-3 i Sho-4.</p>
+	<obrazek duzy="images/leyte.png" maly="images/leyte_m.png" tytul="Wyspa Leyte na Filipinach" />
+	<p>Plan Sho-1 zakładał, że Stany Zjednoczone dokonają desantu na wyspie <a href="http://pl.wikipedia.org/wiki/Leyte" class="hint" onclick="return powiedz(bold('Leyte') + ' - filipińska wyspa w środkowej części kraju. Położona między wyspami: Bohol i Cebu (na zachodzie), Samar (północny wschód) i Mindanao (na południu). Górzysta, liczne wygasłe wulkany.' + link('Leyte'));">Leyte</a>. Osią strategii było wzięcie wroga w kleszcze w Zatoce Leyte, od strony której spodziewano się desantu. Od północy miały zaatakować z zaskoczenia główne siły, dowodzone przez admirała <a href="" class="hint" onclick="return powiedz(bold('Takeo Kurita') + ' (1889-1977) - wiceadmirał floty japońskiej');">Takeo Kuritę</a>, nazywane grupą centralną. Kurita stacjonował w Brunei na Borneo z silnymi siłami, obejmującymi 5 okrętów bojowych (w tym 2 superokręty Yamato i Musashi), 10 krążowników, 2 lekkie krążowniki i 15 niszczycieli. Od południa z kolei ataku miały dokonać połączone floty admirała <a href="" class="hint" onclick="return powiedz(bold('Shōji Nishimura') + ' (1889-1944) - wiceadmirał floty japońskiej');">Shōji Nishimury</a> i <a href="" class="hint" onclick="return powiedz(bold('Kiyohide Shima') + ' (1878-1973) - wiceadmirał floty japońskiej');">Kiyohide Shimy</a>. Nishimura stacjonował w Brunei z 2 okrętami bojowymi, 1 krążownikiem i 4 niszczycielami, a Shima na Hajnanie z nieco przestarzałą technicznie flotą, złożoną z 2 krążowników, 1 lekkiego krążownika i 4 niszczycieli. Połączone floty nazwano grupą południową.</p>
+	<p>Grupa północna, dowodzona przez admirała <a href="" class="hint" onclick="return powiedz(bold('Jisaburo Ozawa') + ' (1886-1966) - wiceadmirał floty japońskiej');">Jisaburo Ozawę</a>, składała się z 4 lotniskowców, 2 statków bojowych, 3 lekkich krążowników i 9 niszczycieli. Flota niezbyt imponująca, ale znacząca – gdyby nie fakt, że na lotniskowcach były nieliczne samoloty z ledwie co wyszkolonymi nowicjuszami w roli pilotów. Prawdziwym zadaniem Ozawy, który płynął na Filipiny z północnego zachodu, miało być odciągnięcie uwagi Trzeciej Floty Stanów Zjednoczonych, a dokładnie jej admirała, <a href="http://pl.wikipedia.org/wiki/William_F._Halsey" class="hint" onclick="return powiedz(bold('William F. Halsey') + ' (1882-1959) - był jednym z dowódców US Navy w czasie zmagań na Pacyfiku w latach II wojny światowej. W roku 1945 został wyniesiony do godności admirała floty.' + link('William F. Halsey'));">Williama Halseya</a>, od głównego celu ataku.</p>
+	<p>W sumie Japończycy dysponowali 64 statkami wojennymi i 3 pomocniczymi.</p>
+
+	<ciekawostka>Załoga pancernika Yamato liczyła ponad 2800 osób</ciekawostka>
+
+	<nastepny>text/slajd5_pn.xml</nastepny>
+	<poprzedni>text/slajd3_pn.xml</poprzedni>
+	<numer_slajdu>4</numer_slajdu>
+	<liczba_slajdow>37</liczba_slajdow>
+	<dalej />
+	
+</strona>

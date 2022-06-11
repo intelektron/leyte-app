@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strona>
+
+	<tytul>Dace i Darter atakują</tytul>
+	<zakladka>kontynuuj</zakladka>
+	<pamietaj />
+
+	<obrazek duzy="images/takao.jpg" maly="images/takao_m.jpg" tytul="Japoński ciężki krążownik Takao" />
+	<p>Dokładnie! Wraz z pierwszymi promieniami Słońca 23. października Darter wynurzył się na głębokość peryskopową, aby ujrzeć przed sobą dumę japońskiej marynarki, żeglującą przez Przesmyk Palawański w dwóch kolumnach. Pierwsza prowadzona była przez ciężki krążownik Atago, flagowy okręt admirała Kurity. McClintock, zdając sobie z tego sprawę, odpalił 6 torped w kierunku Atago i podążającego tuż za nim ciężkiego krążownika Takao, równie niebezpiecznego w bitwie. Po chwili statkami wstrząsnęła seria eksplozji, Atago zatonął w ciągu kilkunastu minut, a Takao został tak poważnie uszkodzony, że nie nadawał się do walki. Honor admirała Kurity i jego oficerów z Atago został wystawiony na szwank, gdy dryfowali w wodzie czekając na ratunek, ale zdrowie nie ucierpiało.</p>
+	<obrazek duzy="images/maya.jpg" maly="images/maya_m.jpg" tytul="Japoński ciężki krążownik Maya" />
+	<p>W chwilę potem Dace ostrzelał od lewej flanki ciężki krążownik Mayę, płynący w drugiej kolumnie. Maya podzieliła smutny los Atago, tonąc w serii eksplozji.</p>
+	<p>Kurita przeniósł dowództwo na superokręt bojowy Yamato i wysłał grupę okrętów na poszukiwania przeciwnika. Wprawdzie Darter i Dace zdołały uciec, Dace wpadł na mieliznę i po kilku nieudanych próbach oswobodzenia go, McClintock przyjął na swój pokład załogę Dace’a, a samą łódź podwodną zniszczył torpedami, aby nie przejęli jej Japończycy.</p>
+
+	<codalej>
+		<opcja link="text/slajd8_p1.xml">Flota admirała Kurity wycofała sie, ze względu na zaprzepaszczenie elementu zaskoczenia</opcja>
+		<opcja link="text/slajd8_p2.xml">Kurita rozpoczął atak na siły amerykańskie</opcja>
+	</codalej>
+	
+	<ciekawostka>Wiceadmirał Kurita podczas bitwy o Leyte cierpiał na chorobę tropikalną, w dodatku po zatopieniu swojego flagowego okrętu Atago przebywał przez pewien czas w wodzie, co znacznie pogorszyło jego stan.</ciekawostka>
+
+	<nastepny>text/slajd8_pn.xml</nastepny>
+	<poprzedni>text/slajd6_pn.xml</poprzedni>
+	<numer_slajdu>7</numer_slajdu>
+	<liczba_slajdow>37</liczba_slajdow>
+
+</strona>

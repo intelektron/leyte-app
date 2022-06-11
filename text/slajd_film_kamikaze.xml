@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strona>
+
+	<tytul>Kamikaze - film propagandowy USA</tytul>
+	<zakladka>kontynuuj</zakladka>
+	<pamietaj />
+	
+	<p>Bitwa w pobliżu Samar była jednym z pierwszych wydarzeń, w których udział wzięli japońscy Kamikaze</p>
+	<flash link="flash/film_kamikaze.swf" szerokosc="450" wysokosc="370" />
+	
+	<ciekawostka>Oficjalne źródłą amerykańskie podają, że podczas II wojny światowej wskutek ataków kamikaze zatonęły 34 okręty. Ostatnie badania pokazują jednak, że liczba ta może wynosić nawet 190 okrętów!</ciekawostka>
+	
+	<nastepny>text/slajd23_pn.xml</nastepny>
+	<poprzedni>text/slajd22_pn.xml</poprzedni>
+	<numer_slajdu>26</numer_slajdu>
+	<liczba_slajdow>37</liczba_slajdow>
+	<dalej />
+	<wycisz />
+
+</strona>

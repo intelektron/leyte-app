@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strona>
+
+	<tytul>Zacięta walka</tytul>
+	<zakladka>kontynuuj</zakladka>
+	<pamietaj />
+
+	<p>Furia, z jaką wrogie niszczyciele zaatakowały flotę Kurity, sprawił, że marynarzom wydawało się, że ścierają się z krążownikami. Desperackie naloty amerykańskich myśliwców nie poczyniły większych szkód, ale utwierdziły zarówno oficerów, jak i zwykłych żołnierzy w przekonaniu, iż mają do czynienia z elitarnymi pilotami Trzeciej Floty Halsey’a, którzy zadali im tak dotkliwe straty Morzu Sibuyan.</p>
+	<obrazek duzy="images/rozbitkowie.jpg" maly="images/rozbitkowie_m.jpg" tytul="Rozbitkowie z okrętu Roberts" />
+	<p>Grupa lotniskowców około 7:13 wpłynęła w szkwał deszczowy, w którym Japończykom, dysponującym radarami niskiej jakości, trudno ich było śledzić. Na drodze pościgu stanęła o 7:42 druga fala niszczycieli i niszczycieli eskortowców, w której wzięły udział Heerman, uszkodzony Johnston, Roberts, Raymond, Dennis i Butler. Desperackie ataki wroga i narastający wśród marynarzy chaos doprowadziły do zatonięcia krążownika Suzuya oraz wycofania się z walki poważnie uszkodzonego krążownika Kumano. W tych atakach Amerykanie utracili niszczyciela eskortowego Roberts, który skupił na sobie ogień krążownika Haguro, pozwalając myśliwcom na zbombardowanie jego wież strzelniczych.</p>
+	<p>Potężne statki bojowe uniknęły uszkodzeń, ale uchylając się przed torpedami wszystkie musiały zmienić kurs i wyjść z szyku. Superokręt Yamato przez 10 minut płynął w kierunku północnym z maksymalną prędkością 31 węzłów, unikając dwóch salw torped, prujących fale dokładnie na prawo i lewo od jego burt z identyczną prędkością. Po tym incydencie nie uzyskał już możliwości wyjścia na korzystną pozycję artyleryjską.</p>
+
+	<ciekawostka>W trakcie krwawych walk o Leyte amerykańscy żołnierze będący świadkami tych zmagań mawiali, że "Japończycy walczyli na śmierć, natomiast Amerykanie o życie" </ciekawostka>
+
+	<nastepny>text/slajd_film_kamikaze.xml</nastepny>
+	<poprzedni>text/slajd21_pn.xml</poprzedni>
+	<numer_slajdu>25</numer_slajdu>
+	<liczba_slajdow>37</liczba_slajdow>
+	<dalej />
+
+</strona>

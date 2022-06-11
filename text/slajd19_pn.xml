@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strona>
+
+	<tytul>Taffy 3</tytul>
+	<zakladka>kontynuuj</zakladka>
+	<pamietaj />
+
+	<obrazek duzy="images/samar.png" maly="images/samar_m.png" tytul="Wyspa Samar" />
+	<p>W tym czasie wzdłuż południowo-zachodnich wybrzeży Filipin stacjonowały 3 grupy: Taffy 1, Taffy 2 i Taffy 3, złożone ze słabo opancerzonych niszczycieli, gorzej od nich uzbrojonych i w ogóle nie opancerzonych niszczycieli eskortowych i najbardziej podatnych na ataki lotniskowców eskortowych.</p>
+	<p>W przeciwieństwie do zwykłych lotniskowców, lotniskowce eskortowe nie posiadały żadnego opancerzenia, osiągały maksymalną prędkość 15 do 19 węzłów i miały na pokładzie tylko jedno 5-calowe działo. Nie przedstawiały samodzielnie istotnej siły bojowej, wykorzystywane były przez wojska amerykańskie i brytyjskie wyłącznie do transportowania samolotów na front i zapewnienia ochrony powietrznej flocie zaopatrzeniowej. W rzeczywistości były one tak słabe, że marynarze nazywali je niekiedy „piastunkami do dzieci”. Ponieważ były względnie tanie w produkcji i utrzymaniu, Siódma Flota dysponowała ich dużą liczbą.</p>
+	<p>Najbardziej na północ, przy wyspie Samar, stacjonował oddział Taffy 3, dowodzony przez kontradmirała Cliftona Sprague’a. W skład oddziału wchodziły 3 niszczyciele: Hoel, Heerman i Johnston, 4 niszczyciele eskortowe: Dennis, Butler, Raymond i Roberts oraz 6 lotniskowców eskortowych: Fanshaw Bay, Saint-Lo, White Plains, Kalinin Bay, Kitkun Bay i Gambier Bay. Na południe wzdłuż wybrzeża wyspy Samar, u ujścia Zatoki Leyte, stacjonowała grupa Taffy 2, a najbardziej na południu - Taffy 1.</p>
+
+	<nastepny>text/slajd20_pn.xml</nastepny>
+	<poprzedni>text/slajd18_pn.xml</poprzedni>
+	<numer_slajdu>22</numer_slajdu>
+	<liczba_slajdow>37</liczba_slajdow>
+	<dalej />
+
+</strona>

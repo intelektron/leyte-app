@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strona>
+
+	<tytul>Sibuyan - film propagandowy USA</tytul>
+	<zakladka>kontynuuj</zakladka>
+	<pamietaj />
+	
+	<flash link="flash/film_sibuyan.swf" szerokosc="450" wysokosc="370" />
+	
+	<nastepny>text/slajd_flash_sibuyan.xml</nastepny>
+	<poprzedni>text/slajd10_pn.xml</poprzedni>
+	<numer_slajdu>11</numer_slajdu>
+	<liczba_slajdow>37</liczba_slajdow>
+	<dalej />
+	<wycisz />
+
+</strona>

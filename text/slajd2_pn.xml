@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strona>
+
+	<tytul>Sytuacja japońskiej floty</tytul>
+	<zakladka>kontynuuj</zakladka>
+	<pamietaj />
+
+	<obrazek duzy="images/macarthur.jpg" maly="images/macarthur_m.jpg" tytul="Generał Douglas MacArthur" />
+	<p>Od czasu zakończonej sukcesem aliantów kontrofensywy w rejonie Wysp Salomona i punktu zwrotnego wojny, jakim była <a href="http://pl.wikipedia.org/wiki/Walki_o_Guadalcanal" class="hint" onclick="return powiedz(bold('Walki o Guadalcanal') + ' - w czasie II wojny światowej trwały od 7 sierpnia 1942 do 8 lutego 1943 i były początkiem amerykańskiej kontrofensywy lądowej w trwającej od dziewięciu miesięcy wojnie z Japonią' + link('Walki o Guadalcanal'));">bitwa o Guadalcanal</a>, japońska dominacja na morzu stale się kruszyła. Stosowana przez piechotę morską Stanów Zjednoczonych taktyka „żabich skoków”, czyli zajmowania słabo bronionych wysepek na Oceanie Spokojnym i unikania silnie obsadzonych garnizonów, pozwoliła aliantom na utworzenie rozległej sieci baz wojskowych z portami w zatokach Wakde, Biak, Noemfoor i Sansapor na czele. W kwietniu 1944. roku połączone siły amerykańsko-australijskie pod przywództwem generała <a href="http://pl.wikipedia.org/wiki/Douglas_MacArthur" class="hint" onclick="return powiedz(bold('Douglas MacArthur') + ' (ur. 26 stycznia 1880 - zm. 5 kwietnia 1964) - amerykański generał, dowódca armii alianckich na Południowo-Zachodnim azjatyckim teatrze działań na Pacyfiku podczas II wojny światowej. Uhonorowany najwyższym odznaczeniem wojskowym w Stanach Zjednoczonych - Medalem Honoru. Był jednym z pięciu amerykańskich oficerów którzy osiągnęli stopień Generała Armii' + link('Douglas MacArthur'));">MacArthura</a> zajęły północno-zachodnie wybrzeża Nowej Gwinei, poważnie uszczuplając japońskie zaplecze surowcowe.</p>
+	<p>Główne linie zaopatrzeniowe Cesarstwa, biorące swój początek na wyspie Borneo, pozostały w rękach imperialnych. Flota, chociaż pozbawiona w czerwcu w wyniku bitwy na Morzy Filipińskim osłony lotniczej i nieco zacofana technologicznie w stosunku do sił amerykańskich, nadal pozostawała potężną siła. Japończycy znaleźli się jednak w trudnej pod względem logistycznym sytuacji: działalność amerykańskich łodzi podwodnych do sierpnia 1944. roku spowodowała ogromne straty w imperialnej flocie zaopatrzeniowej, fale oceanu przykryły ponad 2,8 miliona ton ładunku (w szczególności paliwa), złoża na Borneo i Celebesie były prawie wyczerpane, a posiadane zapasy ropy czekały na transport do rafinerii. Dla cesarza i jego dowódców nie było wątpliwości co do jednego: w wypadku utraty Filipin flotę wojenną można sprzedać na złom.
+</p>
+
+	<nastepny>text/slajd3_pn.xml</nastepny>
+	<poprzedni>text/slajd1_p1.xml</poprzedni>
+	<numer_slajdu>2</numer_slajdu>
+	<liczba_slajdow>37</liczba_slajdow>
+	<dalej />
+
+</strona>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strona>
+
+	<tytul>Dalszy ciąg bitwy</tytul>
+	<zakladka>kontynuuj</zakladka>
+	<pamietaj />
+
+	<p>Ataki niszczycieli zapewniły lotniskowcom Sprague’a trochę cennego czasu, umożliwiając mu odpłynięcie przez szkwał deszczowy na południe, w kierunku oddziałów Taffy 2 i Taffy 1, których lotnictwo systematycznie włączało się do bitwy. O godzinie 8:00 w walce uczestniczyło 79 myśliwców, pół godziny później dołączyły kolejne 24.</p>
+	<obrazek duzy="images/uss_gambier_bay.jpg" maly="images/uss_gambier_bay_m.jpg" tytul="Lotniskowiec USS Gambier Bay" />
+	<p>Dzięki osłonie szkwału deszczowego i zasłony dymnej oraz niskiej jakości japońskich radarów lotniskowcom eskortowym udawało się unikać bezpośredniego starcia aż do 8:40. Pierwszy został wzięty na cel lotniskowiec White Plains, jednak żaden z pocisków nie trafił w cel. Gdy Japończycy zauważyli dym z jego pracujących na maksymalnych obrotach silników, uznali, że okręt jest już wyeliminowany z walki i skupili się na pozostałych lotniskowcach. Fanshaw Bay i Saint-Lo zostały trafione co najmniej 6 razy, a Kalinin Bay dwukrotnie. Najwolniejszy z nich, Gambier Bay, był ostrzeliwany już od 8:00 i o 9:11 zatonął.</p>
+	<p>W czasie potyczki marynarze z lotniskowców odpowiadali ogniem, chociaż mieli do dyspozycji jedynie 5-calowe działka. Jednak ich determinacja doprowadziła do 9-krotnego trafienia krążownika Czokai, który utracił zdolność manewrową.</p>
+	<p>Od momentu bezpośredniego starcia floty Kurity z lotniskowcami, amerykańskie niszczyciele i myśliwce przypuściły ponownie ataki ze zdwojoną zajadłością. W wyniku bombardowań z powietrza Japończycy utracili dwa kolejne krążowniki: Chokai i Chikumę, oba już wcześniej mocno zdewastowane. Załoga uszkodzonego amerykańskiego niszczyciela Johnston przystąpiła do ataku na grupę japońskich niszczycieli, prowadząc do zatopienia jednego z nich. Wkrótce jednak Johnston sam zatonął trafiony pociskami krążownika Yahagi.</p>
+
+	<codalej>
+		<opcja link="text/slajd24_p1.xml">Japończycy rozbili amerykańską flotę i ruszyli na Leyte</opcja>
+		<opcja link="text/slajd24_p2.xml">Amerykanie rozbili japońską flotę</opcja>
+		<opcja link="text/slajd24_p3.xml">Japończycy zarządzili odwrót</opcja>
+	</codalej>
+
+	<nastepny>text/slajd24_pn.xml</nastepny>
+	<poprzedni>text/slajd_film_kamikaze.xml</poprzedni>
+	<numer_slajdu>27</numer_slajdu>
+	<liczba_slajdow>37</liczba_slajdow>
+
+</strona>

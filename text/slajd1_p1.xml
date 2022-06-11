@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strona>
+
+	<tytul>Rok 1944</tytul>
+	<zakladka>start</zakladka>
+
+	<obrazek duzy="images/indie_holenderskie.png" maly="images/indie_holenderskie_m.png" tytul="Posiadłości wchodzące w skład Indii Holenderskich" />
+	<p>W końcu 1944. roku dla Japończyków było oczywiste, że tylko podjęcie radykalnych kroków przeciwko flocie Stanów Zjednoczonych pozwoli im zachować dominującą pozycję na Zachodnim Pacyfiku. Utrzymanie <a href="http://pl.wikipedia.org/wiki/Wyspy Riukiu" class="hint" onclick="return powiedz(bold('Wyspy Riukiu') + ' - jako Ryūkyū shotō obejmują tylko południową część archipelagu Nansei shotō poniżej 27 równoleżnika (wyspy Okinawa, Miyako i Yaeyama) i odpowiadają terytorium dzisiejszej Prefektury Okinawa.');">Wysp Riukiu</a>, <a href="" class="hint" onclick="return powiedz(bold('Formoza') + ' - historyczna nazwa wyspy Tajwan');">Formozy</a> i Filipin było konieczne, ponieważ leżały one na szlaku morskim łączącym Archipelag Japoński z Indochinami i <a href="http://pl.wikipedia.org/wiki/Indie_Holenderskie" class="hint" onclick="return powiedz(bold('Indie Holenderskie') + ' - nazwa kolonii założonej przez Holenderską Kompanię Wschdnioindyjską, która pozostawała pod bezpośrednim zwierzchnictwem Królestwa Holenderskiego od 1799 r. aż do uzyskania niepodległości przez Indonezję w 1949 r.' + link('Indie_Holenderskie'));">Indiami Holenderskimi</a>, stanowiącymi dla Cesarstwa bazę surowcową, w szczególności jedyne źródło cennej ropy naftowej. Pod względem strategicznym było to dla Japończyków być albo nie być: w przypadku zamknięcia szlaku flota wojenna stacjonująca na Honsiu pozbawiona zostałaby paliwa, a flota w bazach na wyspie Borneo – zaopatrzenia technicznego i amunicji.</p>
+	<p>W czerwcu 1944. roku Marynarka Japońska poniosła bolesne straty w bitwie na Morze Filipińskim, w wyniku której Amerykanie zajęli wyspy <a href="http://pl.wikipedia.org/wiki/Mariany" class="hint" onclick="return powiedz(bold('Mariany') + ' - archipelag wysp wulkanicznych w Mikronezji, w południowo-zachodniej części Oceanu Spokojnego.' + link('Mariany'));">Mariany</a> i uzyskali dogodną bazę do nalotów na Archipelag Japoński. Wprawdzie trzon cesarskiej floty prawie nie ucierpiał, Japończycy utracili ponad 200 samolotów i całą kadrę doświadczonych pilotów. Imperialne siły powietrzne straciły istotne znaczenie. Dowódcy japońscy wystarczająco dobrze zdawali sobie z tego sprawę, aby zarządzić szkolenie nowej kadry pilotów – rekrutów, których jedynym celem miało być poświęcenie życia w obronie ojczyzny.</p>
+	
+	<nastepny>text/slajd2_pn.xml</nastepny>
+	<poprzedni>text/main.xml</poprzedni>
+	<numer_slajdu>1</numer_slajdu>
+	<liczba_slajdow>37</liczba_slajdow>
+	<dalej />
+	
+</strona>

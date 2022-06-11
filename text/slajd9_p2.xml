@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strona>
+
+	<tytul>Do akcji wkracza lotnictwo</tytul>
+	<zakladka>kontynuuj</zakladka>
+	<pamietaj />
+
+	<p>Tak, masz rację. Po pierwszej potyczce centralna grupa japońskiej marynarki pod dowództwem admirała Kurity kontynuowała swój rejs w kierunku Cieśniny San Berdardino, wpływając przez Cieśninę Mindoro i Cieśninę Tablas na Morze Sibuyan rankiem 24. października.</p>
+	<obrazek duzy="images/hellcat.jpg" maly="images/hellcat_m.jpg" tytul="Amerykańskie myśliwce F6F Hellcat" />
+	<p>Pierwszy atak lotniczy wróg przypuścił o godzinie 10:30. Celem ataku były głównie superokręty bojowe Musashi i Yamato oraz ciężki krążownik Myoko. W pierwszej fali Musashi i Yamato uniknęły jakichkolwiek poważniejszych uszkodzeń, ale Myoko nie miał tyle szczęścia. Admirał Kurita nie miał innego wyjścia jak odesłać Myoko z powrotem, tracąc w ten sposób kolejny ciężki krążownik. W czasie pierwszego ataku Amerykanie stracili zaledwie 6 myśliwców. Pozostałe samoloty, po uzupełnieniu paliwa i amunicji, przypuściły atak po raz kolejny.</p>
+	<p>Druga fala skupiła się wyłącznie na Musashim, jednym z dwóch najpotężniejszych okrętów we flocie cesarskiej. Jego załoga do obrony użyła 18-calowych dział, zamontowanych na pokładzie, ale Japończycy nie zauważyli, aby jakikolwiek z wrogich obiektów został zestrzelony (faktycznie zestrzelili 4 samoloty). Po zakończeniu nalotu wiceadmirał Ugaki wysłał do Kurity raport, w którym poinformował o stanie okrętu: 6 trafień bombami, 12 trafień torpedami, zniszczony został mostek, zginęli wszyscy obecni wówczas oficerowie, prędkość okrętu 15 węzłów.</p>
+
+	<ciekawostka>Superpancerniki Yamato i Musashi budowano w ścisłej tajemnicy, stocznia Mitsubishi w Nagasaki zasłonięta była wówczas zasłoną z lin sizalowych. Podczas wodowania Yamato wybudowano nad pochylnią olbrzymie zadaszenie i szczelnie otoczono nadbrzeże kordonami policji.</ciekawostka>
+
+	<nastepny>text/slajd10_pn.xml</nastepny>
+	<poprzedni>text/slajd8_pn.xml</poprzedni>
+	<numer_slajdu>9</numer_slajdu>
+	<liczba_slajdow>37</liczba_slajdow>
+	<dalej />
+
+</strona>

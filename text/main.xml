@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strona>
+
+	<tytul>Bitwa morska o Leyte</tytul>
+	<zakladka>main</zakladka>
+	
+	<obrazek duzy="images/main_ussprinceton.jpg" maly="images/main_ussprinceton_m.jpg" tytul="Płonący okręt USS Princeton" szerokosc="222px" />
+	<p>
+		Witamy w lekcji multimedialnej dotyczącej <b>bitwy w zatoce Leyte</b>. Dowiesz się tutaj o genezie oraz przebiegu największej stoczonej dotąd bitwy morsko-powietrznej. Opisywane wydarzenia miały miejsce w październiku 1944 r. na Morzu Filipińskim, ostatecznie przypieczętowały los floty japońskiej i doprowadziły do jej rozbicia przez Amerykanów.
+	</p>
+	<p>
+	   Aby rozpocząć wejdź na zakładkę <b><i>Rozpocznij lekcję</i></b>. Jeżeli chcesz wznowić naukę od ostatnio przeczytanej strony przejdż do zakładki <b><i>Kontynuuj lekcję</i></b>. Zwróć uwagę na Japończyka w prawej części ekranu. Jeśli klikniesz na jego głowę, opowie ciekawostkę dotyczącą przeglądanego aktualnie zagadnienia. Nazwiska osób, pojęcia geograficzne i trudne słowa są zaznaczone w tekście lekcji bladoczerwonym kolorem, po kliknięciu na nie Japończyk wyjaśnia dane zagadnienie.
+	</p>
+	
+
+	<ciekawostka>Jeśli klikniesz w moją głowę, opowiem ciekawostkę na dany temat :-)</ciekawostka>
+
+</strona>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strona>
+
+	<tytul>Pojawienie się Ozawy</tytul>
+	<zakladka>kontynuuj</zakladka>
+	<pamietaj />
+
+	<obrazek duzy="images/ozawa.jpg" maly="images/ozawa_m.jpg" tytul="Admirał Jisaburō Ozawa" />
+	<p>Rankiem 24. października wojska amerykańskie miały cztery problemy: jednym już się zajęto, drugim były ataki japońskiego lotnictwa lądowego na Trzecią Flotę, trzecim japońska grupa centralna, a czwartym odpowiedź na pytanie: Gdzie są cesarskie lotniskowce?</p>
+	<p>Żaden z pilotów nie myślał, że wiceadmirał Halsey, słysząc o odwrocie sił Kurity, otworzy butelkę wódki, naleje każdemu po kieliszku i wzniesie toast za zdrowie cara. Skakanie z radości też nie było najbardziej oczekiwaną reakcją, ale na pewno bardziej spodziewano się tego niż zawiedzenia. A Halsey był właśnie zawiedziony, że stracił okazję do zatopienia kłów w wojskach wroga. Kurita płynął na zachód, oddalając się od Trzeciej Floty.</p>
+	<p>W międzyczasie admirał Ozawa otrzymał wieści o bitwie na Morzu Sibuyan i zrozumiał, że plan jest zagrożony, ponieważ jego flota jeszcze nie została dostrzeżona, chociaż rankiem wysłał eskadrę myśliwców. Żaden z nich nie powrócił, jeden zdołał zatopić nawet Princetona, ale Halsey uznał to za atak z Luzonu. Rozkazał więc swoim operatorom radiowym wypełnić eter dowolnymi komunikatami, nadawanymi na częstotliwościach, na których z pewnością nasłuchiwali Amerykanie.</p>
+	<p>O 16:40 dnia 24. października działania Ozawy przyniosły pożądany skutek. Istnienie jego grupy zostało odkryte, metodą triangulacji oszacowano lokalizację okrętów, a Halsey’owi doniesiono o kolejnych japońskich oddziałach zmierzających w stronę Filipin. Zdekodowano również nazwy kilku japońskich lotniskowców. Halsey był słusznie przekonany, że rozwiązał czwarty problem.</p>
+
+	<codalej>
+		<opcja link="text/slajd12_p1.xml">Halsey czekał na flotę Ozawy w zatoce Leyte</opcja>
+		<opcja link="text/slajd12_p2.xml">Halsey rzucił na północ większość sił</opcja>
+	</codalej>
+
+	<ciekawostka>Wiceadmirał Ozawa nazywany był przez własnych żołnierzy "Gargulcem". Był wyjątkowo wysoki jak na Japończyka, uważano go za jednego z trzech najbrzydszych admirałów floty.</ciekawostka>
+
+	<nastepny>text/slajd12_pn.xml</nastepny>
+	<poprzedni>text/slajd_flash_sibuyan.xml</poprzedni>
+	<numer_slajdu>13</numer_slajdu>
+	<liczba_slajdow>37</liczba_slajdow>
+
+</strona>

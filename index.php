@@ -1,0 +1,83 @@
+<?php echo '<' . '?xml version="1.0" encoding="utf-8"?>' ?>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl" lang="pl" dir="ltr">
+<head>
+	<title>Lekcja multimedialna - Bitwa morska o Leyte</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" href="layout/styl.css" type="text/css" media="all" />
+	<!--[if IE 6]><style type="text/css">@import "layout/ie6.css";</style><![endif]-->
+	
+	<script type="text/javascript">
+   	var GB_ROOT_DIR = "scripts/greybox/";
+	</script>
+	
+	<script type="text/javascript" src="scripts/greybox/AJS.js"></script>
+	<script type="text/javascript" src="scripts/greybox/AJS_fx.js"></script>
+	<script type="text/javascript" src="scripts/greybox/gb_scripts.js"></script>
+	<script type="text/javascript" src="scripts/cookie.js"></script>
+	<script type="text/javascript" src="scripts/main.js"></script>
+	<script type="text/javascript" src="scripts/import.js"></script>
+	<script type="text/javascript" src="scripts/init.js"></script>
+	<link href="scripts/greybox/gb_styles.css" rel="stylesheet" type="text/css" />
+</head>
+<body onload="init_page();">
+
+<div id="loading">
+	<img src="layout/wheel.gif" alt="Logo" />
+</div>
+
+<div id="container"><div id="box">
+
+	<div id="header">
+		<img src="layout/logo.png" alt="Logo" />
+	</div>
+
+	<div id="menu">
+		<ul id="navlist">
+			
+			<li id="mmain"><a href="?page=main" onclick="return load_xml('text/main.xml');" class="current">Strona główna</a></li>
+			<li id="mstart"><a href="?page=start" onclick="return load_xml('text/slajd1_p1.xml');">Rozpocznij lekcję</a></li>
+			<li id="mcontinue"><a href="?page=kontynuuj" onclick="return continue_lesson();">Kontynuuj lekcję</a></li>
+			<li id="msources"><a href="?page=bibliografia" onclick="return load_xml('text/sources.xml');">Bibliografia i spis multimediów</a></li>
+			<li id="mabout"><a href="?page=about" onclick="return load_xml('text/about.xml');">O lekcji</a></li>
+			
+		</ul>
+	</div>
+
+	<div id="content">
+		 <div id="japonczyk">
+			<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"
+						codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0"
+						style="width: 260px; height: 450px; vertical-align: middle" id="marynarz">
+				<param name="allowScriptAccess" value="always" />
+				<param name="movie" value="layout/japonczyk.swf" />
+				<param name="quality" value="high" />
+				<param name="bgcolor" value="#ffffff" />
+				<embed src="layout/japonczyk.swf" quality="high" bgcolor="#FFFFFF" width="260" height="450"
+						 name="marynarz" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"
+						 pluginspage="http://www.macromedia.com/go/getflashplayer" />
+			</object>
+		</div>
+		<div id="conttxt">
+			<a id="ldts" href="">Link do tej strony</a>
+			<a id="prev" href="">Wstecz</a>
+			<a id="next" href="">Dalej</a>
+			<span id="licz">
+				<span id="liczact"></span> / <span id="liczcnt"></span>
+			</span>
+			<div id="ajaxload">
+			<!-- <li><a class="hint" href="" onclick="document.japonczyk.GotoFrame(35); document.japonczyk.Play(); return false;">Japonia rozpoczęła pertraktacje w sprawie tych terenów?</a></li> -->
+			</div>
+		</div>
+   <br style="clear: both;" />
+	</div>
+	<div id="footer">
+		&copy; Grzegorz Pietrzak, Piotr Twaróg, 2007
+	</div>
+
+</div></div>
+
+</body>
+</html>

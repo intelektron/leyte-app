@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strona>
+
+	<tytul>Engaño - linia czasowa</tytul>
+	<zakladka>kontynuuj</zakladka>
+	<pamietaj />
+	
+	<flash link="flash/timeline_engano.swf" szerokosc="590" wysokosc="390" />
+	
+	<nastepny>text/slajd30_pn.xml</nastepny>
+	<poprzedni>text/slajd29_pn.xml</poprzedni>
+	<numer_slajdu>35</numer_slajdu>
+	<liczba_slajdow>37</liczba_slajdow>
+	<dalej />
+
+</strona>

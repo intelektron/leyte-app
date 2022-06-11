@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strona>
+
+	<tytul>Atak na flotę Nishimury</tytul>
+	<zakladka>kontynuuj</zakladka>
+	<pamietaj />
+
+	<obrazek duzy="images/ptboat.jpg" maly="images/ptboat_m.jpg" tytul="Amerykańskie kutry torpedowe" />
+	<p>Tak właśnie się stało. Późnym wieczorem oddział admirała Nishimury dotarł do południowych krańców Cieśniny Surigao, podczas gdy zespół Shimy znajdował się wciąż kilka godzin za nimi. O 22:54 zaskoczony Nishimura został zaatakowany przez eskadry kutrów torpedowych: 30-metrowych, często drewnianych łodzi motorowych, które Amerykanie wykorzystywali w tak zwanych „atakach moskitów”. Zadaniem kutrów było podpływanie do celu, ostrzelanie przeciwnika torpedami i bronią maszynową, następnie oddalenie się.</p>
+	<p>Pierwszy zareagował niszczyciel Shigure, włączając reflektory i odpowiadając ogniem, wkrótce tak samo postąpiły pozostałe okręty. Po odparciu ataku, Nishimura wpływając do cieśniny rozkazał ustawić się swoim okrętom w pojedynczą kolumnę: na czele niszczyciele Mitsushiso, następnie Asagumo, Shigure, Yamagumo, statki bojowe Yamashiro i Fuso, a na końcu krążownik Mogami.</p>
+	<p>W ciągu następnych trzech godzin flota japońska była atakowana jeszcze kilkukrotnie przez eskadry kutrów torpedowych, ale żaden z wystrzelonych pocisków nie osiągnął swego celu. O godzinie 2:10 w nocy ataki ustały. Nishimura nie odnotował żadnego trafienia, Amerykanie stracili 11 łodzi.</p>
+	<p>Prawdziwym zadaniem kutrów torpedowych było jednak odnotowanie i wysłanie Oldendorfowi dokładnych informacji o pozycji, kierunku, prędkości i szyku floty japońskiej, a także spowolnienie jej rejsu przez cieśninę, co dało kontradmirałowi czas na optymalne przygotowanie się do ataku.</p>
+
+	<nastepny>text/slajd16_pn.xml</nastepny>
+	<poprzedni>text/slajd14_pn.xml</poprzedni>
+	<numer_slajdu>17</numer_slajdu>
+	<liczba_slajdow>37</liczba_slajdow>
+	<dalej />
+
+</strona>

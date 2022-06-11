@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strona>
+
+	<tytul>Plany amerykańskie</tytul>
+	<zakladka>kontynuuj</zakladka>
+	<pamietaj />
+	
+	<p>Gdy Japończycy zastanawiali się, jak utrzymać się na powierzchni, amerykańscy dowódcy debatowali poszukując kolejnych okazji do świetnych zwycięstw, które mogłyby im zapewnić sławę po wsze czasy, a prezydent <a href="http://pl.wikipedia.org/wiki/Franklin_Delano_Roosevelt" class="hint" onclick="return powiedz(bold('Franklin Delano Roosevelt') + ' (ur. 30 stycznia 1882 r. - zm. 12 kwietnia 1945 r.) - amerykański polityk, 32. prezydent USA. Czterokrotnie wybierany, z ramienia Partii Demokratycznej, w latach 1933-1945. Jedyny w historii prezydent USA pełniący urząd dłużej niż dwie kadencje' + link('Franklin Delano Roosevelt'));">Roosevelt</a> myślał o zbliżających się wyborach i czwartej kadencji.</p>
+	<obrazek duzy="images/nimitz.jpg" maly="images/nimitz_m.jpg" tytul="Admirał Chester Nimitz" />
+	<p>Generał McArthur, głównodowodzący wojsk lądowych, uważał, że należy zaatakować Filipiny, aby ostatecznie przeciąć japońskie linie zaopatrzeniowe i zlikwidować silny, strategicznie położony bastion przeciwnika. Głównodowodzący floty, admirał <a href="http://pl.wikipedia.org/wiki/Chester_Nimitz" class="hint" onclick="return powiedz(bold('Chester Nimitz') + ' (ur. 24 lutego 1885 - zm. 20 lutego 1966) - admirał amerykański, dowódca floty Stanów Zjednoczonych na Pacyfiku w czasie drugiej wojny światowej' + link('Chester Nimitz'));">Chester Nimitz</a>, był przekonany, że celem ataku powinna stać się Formoza, przy której zdobywaniu spodziewano się mniejszych strat w ludziach i sprzęcie oraz uzyskania dogodnej bazy do ataku na wojska japońskie w Chinach i kolejnej do nalotów na Wyspy Japońskie. Zajęcie Formozy również prowadziło do przecięcia japońskich szlaków zaopatrzeniowych, ale jej utrzymanie przy pozostawieniu Filipin w rękach wroga byłoby bardzo trudne.</p>
+	<p>W zaistniałej sytuacji Roosevelt podjął się bezprecedensowego kroku i jako prezydent postanowił sam podjąć decyzję. Udał się więc w lipcu na Hawaje, gdzie obaj dowódcy stacjonowali i podczas kolacji wysłuchał argumentów obu stron. Gdy McArthur przypomniał Rooseveltowi, iż po utracie Filipin (byłej kolonii Stanów Zjednoczonych) w grudniu 1942. roku przysiągł Amerykanom, że wyspy zostaną odbite najszybciej, jak to tylko będzie możliwe, Nimitz nie miał już argumentów w dyskusji. Roosevelt może nie był wybitnym wojskowym, ale był wytrawnym politykiem i w przeciwieństwie do naszych rodaków wiedział, że łamanie obietnic dawanych wyborcom kosztuje.</p>
+	<p>Niebawem, na konferencji w Quebecu, plan ataku na Filipiny został przedstawiony przez admirała <a href="http://pl.wikipedia.org/wiki/Ernest_King" class="hint" onclick="return powiedz(bold('Ernest King') + ' (ur. 23 listopada 1878 w Lorain, Ohio, zm. 25 czerwca 1956 w Waszyngtonie) - amerykański oficer; szef sztabu Marynarki Wojennej Stanów Zjednoczonych i szef operacji morskich (COMINCH-CNO) w czasie II wojny światowej. Na tym stanowisku kierował wszystkimi działaniami US Navy. Był przełożonym wszystkich dowódców US Navy i podlegał bezpośrednio sekretarzowi marynarki wojennej w Pentagonie.' + link('Ernest King'));">Kinga</a> i uzyskał aprobatę Połączonego Dowództwa wojsk alianckich.</p>
+
+   <codalej>
+		<opcja link="text/slajd4_p1.xml">Japończycy nie planowali odbijania zajętych przez USA terenów z uwagi na brak zasobów</opcja>
+		<opcja link="text/slajd4_p2.xml">Japończycy planowali kontratak w celu odbicia zajętych terytoriów</opcja>
+	</codalej>
+
+	<nastepny>text/slajd4_pn.xml</nastepny>
+	<poprzedni>text/slajd2_pn.xml</poprzedni>
+	<numer_slajdu>3</numer_slajdu>
+	<liczba_slajdow>37</liczba_slajdow>
+
+</strona>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strona>
+
+	<tytul>Straty po stronie Japończyków</tytul>
+	<zakladka>kontynuuj</zakladka>
+	<pamietaj />
+
+	<p>Flota Kurity kontynuowała swój rejs na wschód, atakowana jeszcze cztery razy przez samoloty Stanów Zjednoczonych. Myśliwce amerykańskie wykonały łącznie 259 lotów, a 29 maszyn zostało zestrzelonych.</p>
+	<p>Straty marynarki cesarskiej były znacznie poważniejsze. W kolejnych falach nalotów Musashi był za każdym razem bombardowany i zostawał w tyle. Gdy jego prędkość spadła do 6 węzłów, Kurita podjął decyzję o zawróceniu okrętu. Każdy okręt w grupie centralnej został przynajmniej jeden raz trafiony, ponad jedna trzecia została poważnie uszkodzona, z okrętów unosiły się smugi dymu. Flota straciła szyk. Wiceadmirał rozumiał, nie może wpłynąć prosto w paszczę wroga w takiej sytuacji i o 19:30 podjął decyzję o wstrzymaniu rejsu i zawróceniu na zachód.</p>
+	<obrazek duzy="images/musashi.jpg" maly="images/musashi_m.jpg" tytul="Tonący okręt Musashi" />
+	<p>Zawracająca flota wyminęła po zmierzchu powracający do portu superokręt Musashi, który ledwo utrzymywał się na wodzie. Zdając sobie sprawę, że okręt wkrótce zatonie, Kurita rozkazał ewakuację reszty załogi. Widok dumy japońskiej marynarki znikającej pod falami oceanu napełnił go wątpliwościami dotyczącymi podjętej decyzji. W tym czasie amerykańscy piloci donieśli o stratach zadanych wrogowi i ucieczce japońskiej floty.</p>
+
+	<ciekawostka>W bitwie o Leyte obok wysłużonych myśliwców pamiętających inwazję na Pearl Harbour, wzięły udział najnowsze japońskie samoloty, Nakajima Ki-84, przewyższające parametrami wszystkie maszyny amerykańskie.</ciekawostka>
+	<ciekawostka>Czasami amerykańscy piloci mylili samoloty Nakajima Ki-84 ze starymi Zerami, najczęściej była to ich ostatnia pomyłka w życiu.</ciekawostka>
+
+	<nastepny>text/slajd_film_sibuyan.xml</nastepny>
+	<poprzedni>text/slajd9_pn.xml</poprzedni>
+	<numer_slajdu>10</numer_slajdu>
+	<liczba_slajdow>37</liczba_slajdow>
+	<dalej />
+	
+</strona>

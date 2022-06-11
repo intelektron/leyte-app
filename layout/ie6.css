@@ -1,0 +1,32 @@
+/* Protezy dla przeglądarki IE 6 */
+
+div#conttxt {
+	width: 600px;
+}
+
+div#japonczyk {
+	width: 270px;
+	margin: 5px 0 10px 10px;
+}
+
+div#content {
+	width: 900px;
+	padding-right: 0px;
+}
+
+#navlist li a.current:hover
+{
+	background: white;
+	border-bottom: 1px solid white;
+}
+
+div#loading {
+	_position:absolute;
+	top:0;
+	_top:expression(eval(document.body.scrollTop));
+	display:block;
+}
+
+div.thumb span {
+	font-size: 10px;
+}

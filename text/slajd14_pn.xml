@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strona>
+
+	<tytul>Odpowiedź Amerykanów</tytul>
+	<zakladka>kontynuuj</zakladka>
+	<pamietaj />
+
+	<p>Amerykanie wystarczająco wcześnie dostrzegli grupę południową, aby dobrze się przygotować. Admirał Kinkaid przewidział, że Japończycy podejmą próbę przekroczenia Cieśniny Surigao nocą z dnia 24. na 25. października i powierzył obronę kontradmirałowi Jessemu Oldendorfowi, przekazując mu dowództwo nad 6 starymi statkami bojowymi: West Virginią i Californią, które oficjalnie zatonęły w japońskim ataku na Pearl Harbor, Maryland, Tennessee, Pennsylvania i Mississippi. Wszystkie okręty pochodziły z czasów sprzed II wojny światowej, ale zostały przebudowane i wyposażone w nowoczesny sprzęt. Poza tym Oldendorf miał do dyspozycji 4 ciężkie i 4 lekkie krążowniki, 27 niszczycieli i 37 kutrów torpedowych.</p>
+	<obrazek duzy="images/uss_west_virginia.jpg" maly="images/uss_west_virginia_m.jpg" tytul="USS West Virginia" />
+	<p>Oldendorf umieścił statki bojowe w pojedynczym szeregu na północnym krańcu cieśniny, krążowniki w szeregach na wschód i zachód od statków bojowych (3 ciężkie i 2 lekkie od wschodu i 1 ciężki i 2 lekkie od zachodu), stosując tym samym starą technikę „poprzeczki nad T”, w której flota ustawiona w poprzek kursu przeciwnika atakuje go salwami z dział burtowych. Wody przed statkami bojowymi patrolowała grupa 7 niszczycieli.</p>
+	<p>Wzdłuż brzegów cieśniny rozmieszczonych zostało 20 niszczycieli, podzielonych na dwie grupy szturmowe po 5 i 15 okrętów, patrolowanie południowego krańca zostało powierzone 13 kutrom torpedowym.</p>
+
+	<codalej>
+		<opcja link="text/slajd15_p1.xml">Amerykanie rzucili do ataku kutry torpedowe</opcja>
+		<opcja link="text/slajd15_p2.xml">Amerykańskie statki bojowe rozpoczęły intensywny ostrzał</opcja>
+	</codalej>
+
+	<nastepny>text/slajd15_pn.xml</nastepny>
+	<poprzedni>text/slajd13_pn.xml</poprzedni>
+	<numer_slajdu>16</numer_slajdu>
+	<liczba_slajdow>37</liczba_slajdow>
+
+</strona>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strona>
+
+	<tytul>Test sprawdzający wiedzę</tytul>
+	<zakladka>kontynuuj</zakladka>
+	<pamietaj />
+
+	<p>Zapraszamy do sprawdzenia swojej wiedzy w krótkim teście. Na każde pytanie jest jedna poprawna odpowiedź. Jeśli żadna z odpowiedzi nie zostanie wybrana, wówczas pytanie nie jest zaliczone.</p>
+	<p>
+		<span class="pyt">Pytanie 1: Gdzie odbyła się pierwsza z bitew z udziałem wiceadmirała Kurity?</span>
+		<input type="radio" name="p1" id="p11" /><label for="p11"> Niedaleko wyspy Samar</label><br />
+		<input type="radio" name="p1" id="p12" /><label for="p12"> W pobliżu cieśniny Surigao</label><br />
+		<input type="radio" name="p1" id="p13" /><label for="p13"> Na morzu Sibuyan</label><br />
+	</p>
+	<p>
+		<span class="pyt">Pytanie 2: Który z wiceadmirałów japońskich stracił w walce o cieśninę Surigao niemal całą flotę?</span>
+		<input type="radio" name="p2" id="p21" /><label for="p21"> Shōji Nishimura</label><br />
+		<input type="radio" name="p2" id="p22" /><label for="p22"> Kiyohide Shima</label><br />
+		<input type="radio" name="p2" id="p23" /><label for="p23"> Takeo Kurita</label><br />
+	</p>
+	<p>
+		<span class="pyt">Pytanie 3: Z jakiego powodu zatonęły na samym początku bitwy o Leyte, w Przesmyku Palawańskim, dwa ciężkie krążowniki japońskie Atago i Maya?</span>
+		<input type="radio" name="p3" id="p31" /><label for="p31"> Zaatakowało je amerykańskie lotnictwo</label><br />
+		<input type="radio" name="p3" id="p32" /><label for="p32"> Zostały storpedowane przez okręty podwodne USS Dace i USS Darter</label><br />
+		<input type="radio" name="p3" id="p33" /><label for="p33"> Dosięgnęła ich artyleria amerykańskich pancerników</label><br />
+	</p>
+	<p>
+		<span class="pyt">Pytanie 4: Jaką rolę w bitwie o Leyte odegrała flota wiceadmirała Shimy?</span>
+		<input type="radio" name="p4" id="p41" /><label for="p41"> Zatopiła lotniskowiec USS Princeton</label><br />
+		<input type="radio" name="p4" id="p42" /><label for="p42"> Nie odegrała żadnej roli, wycofała się przed wpłynięciem do cieśn. Surigao</label><br />
+		<input type="radio" name="p4" id="p43" /><label for="p43"> Shima utracił większość okrętów nie zadając większych strat</label><br />
+	</p>
+	<p>
+		<span class="pyt">Pytanie 5: Jak nazywał się zespół okrętów wysłany przez adm. Halseya na odciecz jednostkom walczącym w pobliżu Samar?</span>
+		<input type="radio" name="p5" id="p51" /><label for="p51"> Grupa Centralna</label><br />
+		<input type="radio" name="p5" id="p52" /><label for="p52"> Siódma Flota</label><br />
+		<input type="radio" name="p5" id="p53" /><label for="p53"> Task Force 34</label><br />
+	</p>
+	<p>
+		<span class="pyt">Pytanie 6: Jakie amerykańskie jednostki stacjonowały w pobliżu Samar na straży Cieśniny San Bernardino?</span>
+		<input type="radio" name="p6" id="p61" /><label for="p61"> Duża flota pancerników i krążowników</label><br />
+		<input type="radio" name="p6" id="p62" /><label for="p62"> Słaby zespół lotniskowców eskortowych i niszczycieli</label><br />
+		<input type="radio" name="p6" id="p63" /><label for="p63"> Kutry torpedowe</label><br />
+	</p>
+	<p>
+		<span class="pyt">Pytanie 7: Gdzie zatonął japoński lotniskowiec Zuikaku, weteran z Pearl Harbour?</span>
+		<input type="radio" name="p7" id="p71" /><label for="p71"> Nieopodal Przylądka Engaño</label><br />
+		<input type="radio" name="p7" id="p72" /><label for="p72"> W Przesmyku Palawańskim</label><br />
+		<input type="radio" name="p7" id="p73" /><label for="p73"> W pobliżu cieśniny Surigao</label><br />
+	</p>
+	<p>
+		<span class="pyt">Pytanie 8: Kto przysłał admirałowi Halseyowi depeszę z feralnym zdaniem "świat się zastanawia"?</span>
+		<input type="radio" name="p8" id="p81" /><label for="p81"> Admirał Chester Nimitz</label><br />
+		<input type="radio" name="p8" id="p82" /><label for="p82"> Admirał Thomas Kinkaid</label><br />
+		<input type="radio" name="p8" id="p83" /><label for="p83"> Kontradmirał Willis Lee</label><br />
+	</p>
+	<p>
+		<span class="pyt">Pytanie 9: Jakie zadanie w planie Sho-1 miała wypełnić flota wiceadmirała Ozawy?</span>
+		<input type="radio" name="p9" id="p91" /><label for="p91"> Zaatakować całą siłą desant na wyspie Leyte</label><br />
+		<input type="radio" name="p9" id="p92" /><label for="p92"> Pozostawać w ukryciu, w oczekiwaniu na przybycie pozostałych japońskich zespołów</label><br />
+		<input type="radio" name="p9" id="p93" /><label for="p93"> Odciągnąć uwagę Amerykanów od centralnej grupy uderzeniowej wiceadmirała Kurity</label><br />
+	</p>
+	<p>
+		<span class="pyt">Pytanie 10: Jak nazywał się superpancernik japoński zatopiony na Morzu Sibuyan?</span>
+		<input type="radio" name="p10" id="p101" /><label for="p101"> Musashi</label><br />
+		<input type="radio" name="p10" id="p102" /><label for="p102"> Zuikaku</label><br />
+		<input type="radio" name="p10" id="p103" /><label for="p103"> Yamato</label><br />
+	
+	<button class="odp" onclick="sprawdz_test();">Sprawdź odpowiedzi!</button>
+	</p>
+	
+	<poprzedni>text/slajd30_pn.xml</poprzedni>
+	
+	<numer_slajdu>37</numer_slajdu>
+	<liczba_slajdow>37</liczba_slajdow>
+
+</strona>
